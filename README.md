@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Muhammad Alief Syah Djibran</h1>
-  <p><strong>Software Engineering (RPL) Student at SMK Bina Informatika</strong></p>
-  <p>Full-Stack Web Developer &bull; Desktop &amp; Mobile App Developer &bull; Database Administrator</p>
+  <p><strong>Rekayasa Perangkat Lunak (RPL) Student at SMK Bina Informatika</strong></p>
+  <p>Full-Stack Web Developer &bull; Desktop &amp; Mobile App Developer &bull; Database &amp; Server Enthusiast</p>
 
   <br />
 
@@ -23,25 +23,25 @@
 ---
 
 ### About Me (English)
-Software Engineering (RPL) student at **SMK Bina Informatika** specializing in full-stack web development, desktop applications, and relational database administration. Focused on building structured, practical, and scalable software solutions.
+Software Engineering (RPL) student at **SMK Bina Informatika** focused on building web, desktop, and mobile applications along with relational database administration and server management. Experienced in shipping structured projects from database schema and backend logic to responsive user interfaces.
 
 ### Tentang Saya (Bahasa Indonesia)
-Siswa jurusan **Rekayasa Perangkat Lunak (RPL)** di **SMK Bina Informatika** yang berfokus pada pengembangan aplikasi web, desktop, dan administrasi basis data relasional. Berpengalaman membangun perangkat lunak yang terstruktur, fungsional, dan siap digunakan.
+Siswa jurusan **Rekayasa Perangkat Lunak (RPL)** di **SMK Bina Informatika** yang berfokus pada pengembangan aplikasi web, desktop, dan mobile serta administrasi basis data relasional dan pengelolaan server. Terbiasa membangun proyek perangkat lunak secara terstruktur mulai dari perancangan database dan logika backend hingga antarmuka pengguna.
 
 ---
 
 ### Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,html,css,js,java,cs,androidstudio,mysql,git,github,vscode,linux&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,html,css,js,java,cs,androidstudio,mysql,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <br />
 
-* **Web Development:** PHP, Laravel, Tailwind CSS, HTML5, CSS3, JavaScript
+* **Web Development:** PHP, Laravel, Tailwind CSS, HTML, CSS, JavaScript
 * **Desktop & Mobile:** Java (Java Swing, JDBC, NetBeans), C# (Windows Forms, Console), Android Studio
-* **Database & Server:** MySQL, MariaDB, phpMyAdmin (Database Replication), Game Server Administration
-* **Tools & Networking:** Git, GitHub, Visual Studio Code, XAMPP, Nmap
+* **Database & Server:** MySQL, MariaDB, phpMyAdmin, Database Replication, Game Server Administration (`play.eystraproject.xyz`)
+* **Tools, Networking & Workflow:** Git, GitHub, Visual Studio Code, XAMPP, Nmap, OBS Studio, ADB / Scrcpy
 
 ---
 
@@ -49,10 +49,10 @@ Siswa jurusan **Rekayasa Perangkat Lunak (RPL)** di **SMK Bina Informatika** yan
 
 | Project | Description (EN / ID) | Tech Stack |
 | :--- | :--- | :--- |
-| **[BI-Kantin Web](https://github.com/Majoy10/bi-kantin-web)** | **EN:** Digital school canteen ordering and management system with role-based access (student & admin) and order status tracking.<br>**ID:** Aplikasi web pemesanan dan pengelolaan kantin sekolah digital dengan pemisahan akses siswa & admin serta pemantauan status pesanan. | `Laravel` `Tailwind CSS` `MySQL` |
-| **[BI Got Talent (Web)](https://github.com/Majoy10/bigot-talent-laravel)** | **EN:** Web-based student talent registration and competition management platform.<br>**ID:** Platform web pendaftaran dan manajemen kompetisi bakat siswa di sekolah. | `Laravel` `PHP` `MySQL` |
-| **BI Got Talent (Desktop)** | **EN:** Desktop CRUD application for local student talent data management.<br>**ID:** Aplikasi desktop dengan fitur CRUD untuk pengelolaan data peserta lomba secara terpusat. | `Java Swing` `JDBC` `MySQL` |
-| **Eystra Project Network** | **EN:** 24/7 multiplayer Minecraft server infrastructure (`play.eystraproject.xyz`) for up to 50 concurrent players.<br>**ID:** Pengelolaan infrastruktur server multiplayer Minecraft 24/7 untuk hingga 50 pemain aktif. | `Server Admin` `Networking` |
+| **[BI-Kantin Web](https://github.com/Majoy10/bi-kantin-web)** | **EN:** Digital school canteen ordering and management web application with student and admin views, menu CRUD, and order status updates.<br>**ID:** Aplikasi web pemesanan dan pengelolaan kantin sekolah digital dengan fitur siswa dan admin, CRUD menu, serta pembaruan status pesanan. | `Laravel` `Tailwind CSS` `MySQL` |
+| **[BI Got Talent (Web)](https://github.com/Majoy10/bigot-talent-laravel)** | **EN:** Web platform for student talent registration and competition data management.<br>**ID:** Platform web pendaftaran dan pengelolaan data kompetisi bakat siswa. | `Laravel` `PHP` `MySQL` |
+| **BI Got Talent (Desktop)** | **EN:** Desktop CRUD application for managing student talent registration data.<br>**ID:** Aplikasi desktop dengan fitur CRUD untuk mengelola data pendaftaran peserta lomba. | `Java Swing` `JDBC` `MySQL` |
+| **Eystra Project Network** | **EN:** 24/7 multiplayer Minecraft economy server (`play.eystraproject.xyz`) supporting versions 1.20.1 to 1.21.11 for up to 50 players.<br>**ID:** Server ekonomi multiplayer Minecraft 24/7 (`play.eystraproject.xyz`) untuk versi 1.20.1 hingga 1.21.11 dengan kapasitas hingga 50 pemain. | `Server Admin` `MySQL` |
 
 ---
 
