@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Muhammad Alief Syah Djibran</h1>
   <p><strong>Rekayasa Perangkat Lunak (RPL) Student at SMK Bina Informatika</strong></p>
-  <p>Web &bull; Desktop &bull; Mobile &bull; Database &bull; 3D &amp; Game Creation</p>
+  <p>Web &bull; Desktop &bull; Mobile &bull; Database &bull; UI/UX &bull; 3D &amp; Game</p>
 
   <br />
 
@@ -23,28 +23,35 @@
 ---
 
 ### About Me (English)
-Software Engineering (RPL) student at **SMK Bina Informatika** with hands-on experience building web, desktop, and mobile applications along with relational databases, 3D modeling, and game environments.
+Software Engineering (RPL) student at **SMK Bina Informatika** with hands-on experience in web, desktop, and mobile development, relational databases, UI/UX design in Figma, 3D modeling, and game environments.
 
 ### Tentang Saya (Bahasa Indonesia)
-Siswa jurusan **Rekayasa Perangkat Lunak (RPL)** di **SMK Bina Informatika** yang mengerjakan proyek aplikasi web, desktop, mobile, pengelolaan basis data, serta pembuatan aset 3D dan game.
+Siswa jurusan **Rekayasa Perangkat Lunak (RPL)** di **SMK Bina Informatika** yang memiliki pengalaman praktik di pengembangan web, desktop, mobile, basis data relasional, desain UI/UX di Figma, pembuatan aset 3D, dan game.
 
 ---
 
 ### Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,html,css,js,java,cs,androidstudio,mysql,git,github,vscode,blender&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,php,laravel,nodejs,java,cs,py,cpp,androidstudio,mysql,git,github,blender&theme=dark" alt="Tech Stack Icons" />
   <br />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/OBS_Studio-181414?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio" />
   <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" />
 </div>
 
 <br />
 
-* **Web:** PHP, Laravel, Tailwind CSS, HTML, CSS, JavaScript
-* **Desktop & Mobile:** Java (Java Swing, JDBC, NetBeans), C# (Windows Forms, Console), Android Studio
-* **Database:** MySQL, MariaDB, phpMyAdmin (Database Replication)
-* **3D & Game Creation:** Blender, Roblox Studio
-* **Tools & Workflow:** Git, GitHub, Visual Studio Code, XAMPP, Nmap, OBS Studio, Scrcpy & ADB
+* **UI/UX & Desain:** Figma
+* **Web:** HTML, CSS, Tailwind CSS, PHP, Laravel, Node.js
+* **Desktop, Mobile & Languages:** Java, C#, Python, C++, Android Studio
+* **3D & Game:** Blender, Roblox Studio
+* **Database & Environment:** MySQL, MariaDB, phpMyAdmin, XAMPP, Laragon, Cloudflare, OBS Studio
+* **Version Control:** Git, GitHub
 
 ---
 
@@ -54,8 +61,8 @@ Siswa jurusan **Rekayasa Perangkat Lunak (RPL)** di **SMK Bina Informatika** yan
 | :--- | :--- | :--- |
 | **[BI-Kantin Web](https://github.com/Majoy10/bi-kantin-web)** | **EN:** School canteen web app with student and admin views, menu CRUD, and order status updates.<br>**ID:** Aplikasi web kantin sekolah dengan halaman siswa dan admin, CRUD menu, serta status pesanan. | `Laravel` `Tailwind CSS` `MySQL` |
 | **[BI Got Talent (Web)](https://github.com/Majoy10/bigot-talent-laravel)** | **EN:** Web application for student talent registration and participant management.<br>**ID:** Aplikasi web pendaftaran dan pengelolaan data peserta BI Got Talent. | `Laravel` `PHP` `MySQL` |
-| **BI Got Talent (Desktop)** | **EN:** Desktop CRUD application for managing student talent data.<br>**ID:** Aplikasi desktop CRUD untuk mengelola data peserta BI Got Talent. | `Java Swing` `JDBC` `NetBeans` |
-| **Eystra Project Network** | **EN:** 24/7 Minecraft economy server (`play.eystraproject.xyz`) for versions 1.20.1–1.21.11.<br>**ID:** Server ekonomi Minecraft 24/7 (`play.eystraproject.xyz`) untuk versi 1.20.1–1.21.11. | `Server Admin` |
+| **BI Got Talent (Desktop)** | **EN:** Desktop CRUD application for managing student talent data.<br>**ID:** Aplikasi desktop CRUD untuk mengelola data peserta BI Got Talent. | `Java` `MySQL` |
+| **Eystra Project Network** | **EN:** 24/7 Minecraft server (`play.eystraproject.xyz`) for versions 1.20.1–1.21.11.<br>**ID:** Server Minecraft 24/7 (`play.eystraproject.xyz`) untuk versi 1.20.1–1.21.11. | `Server Admin` |
 
 ---
 
