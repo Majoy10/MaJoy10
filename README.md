@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Muhammad Alief Syah Djibran</h1>
-  <p><strong>Rekayasa Perangkat Lunak (RPL) Student at SMK Bina Informatika</strong></p>
+  <p><strong>Software Engineering (RPL) Student at SMK Bina Informatika</strong></p>
   <p>Web &bull; Desktop &bull; Mobile &bull; Database &bull; UI/UX &bull; 3D &amp; Game</p>
 
   <br />
@@ -22,47 +22,45 @@
 
 ---
 
-### About Me (English)
-Software Engineering (RPL) student at **SMK Bina Informatika** with hands-on experience in web, desktop, and mobile development, relational databases, UI/UX design in Figma, 3D modeling, and game environments.
-
-### Tentang Saya (Bahasa Indonesia)
-Siswa jurusan **Rekayasa Perangkat Lunak (RPL)** di **SMK Bina Informatika** yang memiliki pengalaman praktik di pengembangan web, desktop, mobile, basis data relasional, desain UI/UX di Figma, pembuatan aset 3D, dan game.
+### About Me
+Software Engineering (RPL) student at **SMK Bina Informatika** with hands-on experience across web development, desktop and mobile programming, relational databases, UI/UX design, 3D modeling, and game environments. Focused on building structured, practical applications from database design and backend logic to user interfaces.
 
 ---
 
 ### Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,php,laravel,nodejs,java,cs,py,cpp,androidstudio,mysql,git,github,blender&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,bootstrap,js,ts,php,laravel,nodejs,react,java,cs,py,cpp,androidstudio,kotlin,mysql,xampp,git,github,blender&theme=dark" alt="Tech Stack Icons" />
   <br />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
   <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/OBS_Studio-181414?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio" />
+  <img src="https://img.shields.io/badge/Scrcpy-009688?style=for-the-badge&logo=android&logoColor=white" alt="Scrcpy" />
   <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" />
 </div>
 
 <br />
 
-* **UI/UX & Desain:** Figma
-* **Web:** HTML, CSS, Tailwind CSS, PHP, Laravel, Node.js
-* **Desktop, Mobile & Languages:** Java, C#, Python, C++, Android Studio
-* **3D & Game:** Blender, Roblox Studio
-* **Database & Environment:** MySQL, MariaDB, phpMyAdmin, XAMPP, Laragon, Cloudflare, OBS Studio
-* **Version Control:** Git, GitHub
+* **Design & UI/UX:** Figma, Canva
+* **Web Development:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, PHP, Laravel, Node.js, React
+* **Programming, Desktop & Mobile:** Java (NetBeans, Swing, JDBC), C# (Windows Forms, Console), Python, C++, Android Studio, Kotlin
+* **3D & Game Development:** Blender, Roblox Studio
+* **Databases & Local Environments:** MySQL, MariaDB, phpMyAdmin, XAMPP, Laragon
+* **Version Control, Servers & Utilities:** Git, GitHub, Cloudflare, OBS Studio, Scrcpy
 
 ---
 
-### Featured Projects / Proyek Utama
+### Featured Projects
 
-| Project | Description (EN / ID) | Stack |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[BI-Kantin Web](https://github.com/Majoy10/bi-kantin-web)** | **EN:** School canteen web app with student and admin views, menu CRUD, and order status updates.<br>**ID:** Aplikasi web kantin sekolah dengan halaman siswa dan admin, CRUD menu, serta status pesanan. | `Laravel` `Tailwind CSS` `MySQL` |
-| **[BI Got Talent (Web)](https://github.com/Majoy10/bigot-talent-laravel)** | **EN:** Web application for student talent registration and participant management.<br>**ID:** Aplikasi web pendaftaran dan pengelolaan data peserta BI Got Talent. | `Laravel` `PHP` `MySQL` |
-| **BI Got Talent (Desktop)** | **EN:** Desktop CRUD application for managing student talent data.<br>**ID:** Aplikasi desktop CRUD untuk mengelola data peserta BI Got Talent. | `Java` `MySQL` |
-| **Eystra Project Network** | **EN:** 24/7 Minecraft server (`play.eystraproject.xyz`) for versions 1.20.1–1.21.11.<br>**ID:** Server Minecraft 24/7 (`play.eystraproject.xyz`) untuk versi 1.20.1–1.21.11. | `Server Admin` |
+| **[BI-Kantin Web](https://github.com/Majoy10/bi-kantin-web)** | Digital school canteen ordering and management web application with student and admin views, menu CRUD, and order status updates. | `Laravel` `Tailwind CSS` `MySQL` |
+| **[BI Got Talent (Web)](https://github.com/Majoy10/bigot-talent-laravel)** | Web-based platform for student talent registration and competition participant management. | `Laravel` `PHP` `MySQL` |
+| **BI Got Talent (Desktop)** | Desktop CRUD application for managing student talent registration data and records. | `Java` `Swing` `JDBC` |
+| **Eystra Project Network** | 24/7 multiplayer Minecraft economy server (`play.eystraproject.xyz`) supporting versions 1.20.1 to 1.21.11. | `Server Admin` `Cloudflare` |
 
 ---
 
@@ -75,7 +73,7 @@ Siswa jurusan **Rekayasa Perangkat Lunak (RPL)** di **SMK Bina Informatika** yan
 
 ---
 
-### Get in Touch / Kontak
+### Get in Touch
 
 * **WhatsApp:** [+62 821-1243-9713](https://wa.me/6282112439713)
 * **Gmail:** [sialief01@gmail.com](mailto:sialief01@gmail.com)
