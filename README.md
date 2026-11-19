@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Muhammad Alief Syah Djibran</h1>
   <p><strong>Rekayasa Perangkat Lunak (RPL) Student at SMK Bina Informatika</strong></p>
-  <p>Web &bull; Desktop &bull; Mobile &bull; Database</p>
+  <p>Web &bull; Desktop &bull; Mobile &bull; Database &bull; 3D &amp; Game Creation</p>
 
   <br />
 
@@ -23,17 +23,19 @@
 ---
 
 ### About Me (English)
-Software Engineering (RPL) student at **SMK Bina Informatika** with hands-on experience building web, desktop, and mobile applications along with relational databases.
+Software Engineering (RPL) student at **SMK Bina Informatika** with hands-on experience building web, desktop, and mobile applications along with relational databases, 3D modeling, and game environments.
 
 ### Tentang Saya (Bahasa Indonesia)
-Siswa jurusan **Rekayasa Perangkat Lunak (RPL)** di **SMK Bina Informatika** yang mengerjakan proyek aplikasi web, desktop, mobile, dan pengelolaan basis data.
+Siswa jurusan **Rekayasa Perangkat Lunak (RPL)** di **SMK Bina Informatika** yang mengerjakan proyek aplikasi web, desktop, mobile, pengelolaan basis data, serta pembuatan aset 3D dan game.
 
 ---
 
 ### Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,html,css,js,java,cs,androidstudio,mysql,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,html,css,js,java,cs,androidstudio,mysql,git,github,vscode,blender&theme=dark" alt="Tech Stack Icons" />
+  <br />
+  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" />
 </div>
 
 <br />
@@ -41,7 +43,8 @@ Siswa jurusan **Rekayasa Perangkat Lunak (RPL)** di **SMK Bina Informatika** yan
 * **Web:** PHP, Laravel, Tailwind CSS, HTML, CSS, JavaScript
 * **Desktop & Mobile:** Java (Java Swing, JDBC, NetBeans), C# (Windows Forms, Console), Android Studio
 * **Database:** MySQL, MariaDB, phpMyAdmin (Database Replication)
-* **Tools & Workflow:** Git, GitHub, Visual Studio Code, XAMPP, ngrok, Nmap, OBS Studio, Scrcpy & ADB
+* **3D & Game Creation:** Blender, Roblox Studio
+* **Tools & Workflow:** Git, GitHub, Visual Studio Code, XAMPP, Nmap, OBS Studio, Scrcpy & ADB
 
 ---
 
@@ -59,4 +62,15 @@ Siswa jurusan **Rekayasa Perangkat Lunak (RPL)** di **SMK Bina Informatika** yan
 ### GitHub Stats
 
 <div align="center">
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api?username=Majoy10&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majoy10&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+---
+
+### Get in Touch / Kontak
+
+* **WhatsApp:** [+62 821-1243-9713](https://wa.me/6282112439713)
+* **Gmail:** [sialief01@gmail.com](mailto:sialief01@gmail.com)
+* **LinkedIn:** [Muhammad Alief Syah Djibran](https://www.linkedin.com/in/muhammad-alief-syah-djibran-b97604450)
+* **Instagram:** [@aliefibann](https://instagram.com/aliefibann)
