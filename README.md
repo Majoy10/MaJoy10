@@ -3,6 +3,9 @@
   <p><strong>Software Engineering (RPL) Student at SMK Bina Informatika</strong></p>
   <p>Web &bull; Desktop &bull; Mobile &bull; Database &bull; UI/UX &bull; 3D &amp; Game</p>
 
+  <img src="https://komarev.com/ghpvc/?username=Majoy10&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+
+  <br />
   <br />
 
   <!-- Social & Contact Badges -->
@@ -62,13 +65,30 @@ Software Engineering (RPL) student at **SMK Bina Informatika** with hands-on exp
 | **BI Got Talent (Desktop)** | Desktop CRUD application for managing student talent registration data and records. | `Java` `Swing` `JDBC` |
 | **Eystra Project Network** | 24/7 multiplayer Minecraft economy server (`play.eystraproject.xyz`) supporting versions 1.20.1 to 1.21.11. | `Server Admin` `Cloudflare` |
 
+<br />
+
+<div align="center">
+  <a href="https://github.com/Majoy10/bi-kantin-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Majoy10&repo=bi-kantin-web&theme=tokyonight&hide_border=true" alt="BI-Kantin Web" />
+  </a>
+  <a href="https://github.com/Majoy10/bigot-talent-laravel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Majoy10&repo=bigot-talent-laravel&theme=tokyonight&hide_border=true" alt="BI Got Talent Laravel" />
+  </a>
+</div>
+
 ---
 
-### GitHub Stats
+### GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Majoy10&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majoy10&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Majoy10&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Majoy10&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Majoy10&theme=tokyo-night&hide_border=true" height="220" alt="Activity Graph" />
 </div>
 
 ---
